@@ -40,7 +40,7 @@ Built a correlation matrix, flagged feature pairs with correlation above 0.80, a
 - loan_cleaned.csv: final cleaned output
 
 ## Tech Used
-Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+Python, Pandas, NumPy, Seaborn, Matplotlib
 
 ## Author
 Fahad Hameed
